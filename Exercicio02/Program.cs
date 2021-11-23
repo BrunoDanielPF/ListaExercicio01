@@ -21,17 +21,25 @@ namespace Exercicio02
 
 
             int maior = 0;
+            int menor = 0;
 
-
+            // MAIOR // // // // 
             if (numeroc1 > numeroc2)
                 if (numeroc1 > numeroc3) maior = numeroc1;
-                else maior = numeroc3;
-
+                    else maior = numeroc3;
             if (numeroc2 > numeroc3)
                 if (numeroc2 > numeroc1) maior = numeroc2;
-                else maior = numeroc3;
-
+                    else maior = numeroc3;
+            // MENOR // // // // 
+            if(numeroc1 < numeroc3)
+                if(numeroc1 < numeroc2) menor = numeroc1;
+                    else menor = numeroc3;
+            if(numeroc2 < numeroc3)
+                if(numeroc2 < numeroc1) menor = numeroc2;
+                    else menor = numeroc3;
+            
             Console.WriteLine("o maior resultado é : " + maior);
+            Console.WriteLine("o menor resultado é : " + menor);
         }
     }
 }
