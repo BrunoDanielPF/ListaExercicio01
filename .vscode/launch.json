@@ -1,6 +1,10 @@
 {
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        
         {
             // Use IntelliSense to find out which attributes exist for C# debugging
             // Use hover for the description of the existing attributes
@@ -10,9 +14,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Exercicio01/bin/Debug/net5.0/Exercicio01.dll",
+            "program": "${workspaceFolder}/Exercicio5/bin/Debug/net5.0/Exercicio5.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Exercicio01",
+            "cwd": "${workspaceFolder}/Exercicio5",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

@@ -20,7 +20,7 @@ namespace Exercicio5
             Console.WriteLine("( - ) IR: " + resultadoIR +
             "\n( - ) INSS (10%): " + resultadoINSS +
             "\nFGTS (11%) : " + resultadoFGTS + 
-            "\nsalario liquido:" + resultadoLiquido);
+            "\nsalario liquido:" + resultadoLiquido);  
         }
     }
 }
