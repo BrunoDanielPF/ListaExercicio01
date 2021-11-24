@@ -1,0 +1,16 @@
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio8\obj\Debug\net5.0\Exercicio8.csproj.AssemblyReference.cache
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio8\obj\Debug\net5.0\Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio8\obj\Debug\net5.0\Exercicio8.AssemblyInfoInputs.cache
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio8\obj\Debug\net5.0\Exercicio8.AssemblyInfo.cs
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio8\obj\Debug\net5.0\Exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio8\bin\Debug\net5.0\Exercicio8.exe
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio8\bin\Debug\net5.0\Exercicio8.deps.json
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio8\bin\Debug\net5.0\Exercicio8.runtimeconfig.json
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio8\bin\Debug\net5.0\Exercicio8.runtimeconfig.dev.json
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio8\bin\Debug\net5.0\Exercicio8.dll
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio8\bin\Debug\net5.0\ref\Exercicio8.dll
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio8\bin\Debug\net5.0\Exercicio8.pdb
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio8\obj\Debug\net5.0\Exercicio8.dll
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio8\obj\Debug\net5.0\ref\Exercicio8.dll
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio8\obj\Debug\net5.0\Exercicio8.pdb
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio8\obj\Debug\net5.0\Exercicio8.genruntimeconfig.cache
