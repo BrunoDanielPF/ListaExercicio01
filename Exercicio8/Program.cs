@@ -20,7 +20,6 @@ namespace Exercicio8
 
             CalculoTriangulo calculo = new CalculoTriangulo();
             calculo.tipoTriangulo(lado1, lado2, lado3);
-
         }
     }
 }
