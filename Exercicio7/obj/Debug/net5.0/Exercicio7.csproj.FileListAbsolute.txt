@@ -1,0 +1,16 @@
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio7\obj\Debug\net5.0\Exercicio7.csproj.AssemblyReference.cache
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio7\obj\Debug\net5.0\Exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio7\obj\Debug\net5.0\Exercicio7.AssemblyInfoInputs.cache
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio7\obj\Debug\net5.0\Exercicio7.AssemblyInfo.cs
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio7\obj\Debug\net5.0\Exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio7\bin\Debug\net5.0\Exercicio7.exe
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio7\bin\Debug\net5.0\Exercicio7.deps.json
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio7\bin\Debug\net5.0\Exercicio7.runtimeconfig.json
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio7\bin\Debug\net5.0\Exercicio7.runtimeconfig.dev.json
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio7\bin\Debug\net5.0\Exercicio7.dll
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio7\bin\Debug\net5.0\ref\Exercicio7.dll
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio7\bin\Debug\net5.0\Exercicio7.pdb
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio7\obj\Debug\net5.0\Exercicio7.dll
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio7\obj\Debug\net5.0\ref\Exercicio7.dll
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio7\obj\Debug\net5.0\Exercicio7.pdb
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Exercicio7\obj\Debug\net5.0\Exercicio7.genruntimeconfig.cache

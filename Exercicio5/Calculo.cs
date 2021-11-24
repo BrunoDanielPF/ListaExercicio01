@@ -3,12 +3,12 @@ namespace Exercicio5
 {
     public class Calculo
     {
-        public double  IR(double salario)
+        public double IR(double salario)
         {
             double total = 0;
             double descIR = 0;
             if (salario <= 2000)
-            {   
+            {
                 total = 0;
             }
             if (salario >= 2000 && salario <= 5000)
@@ -22,16 +22,15 @@ namespace Exercicio5
                 descIR = 10.0 / 100.0;
                 total = salario - (descIR * salario);
                 total = salario - total;
-                
             }
             if (salario >= 7000 && salario > 15000)
             {
                 descIR = 20.0 / 100.0;
                 total = salario - (descIR * salario);
                 total = salario - total;
-                
+
             }
-             return total ;
+            return total;
         }
         public double INSS(double salario)
         {

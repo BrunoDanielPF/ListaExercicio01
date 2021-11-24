@@ -15,12 +15,12 @@ namespace Exercicio5
             resultadoIR = folhaPagamento.IR(salario);
             resultadoINSS = folhaPagamento.INSS(salario);
             resultadoFGTS = folhaPagamento.FGTS(salario);
-            resultadoLiquido = salario - (resultadoIR+resultadoINSS);
+            resultadoLiquido = salario - (resultadoIR + resultadoINSS);
 
             Console.WriteLine("( - ) IR: " + resultadoIR +
             "\n( - ) INSS (10%): " + resultadoINSS +
-            "\nFGTS (11%) : " + resultadoFGTS + 
-            "\nsalario liquido:" + resultadoLiquido);  
+            "\nFGTS (11%) : " + resultadoFGTS +
+            "\nsalario liquido:" + resultadoLiquido);
         }
     }
 }
