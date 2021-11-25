@@ -1,0 +1,16 @@
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\ExercicioFinal\obj\Debug\net5.0\ExercicioFinal.csproj.AssemblyReference.cache
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\ExercicioFinal\obj\Debug\net5.0\ExercicioFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\ExercicioFinal\obj\Debug\net5.0\ExercicioFinal.AssemblyInfoInputs.cache
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\ExercicioFinal\obj\Debug\net5.0\ExercicioFinal.AssemblyInfo.cs
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\ExercicioFinal\obj\Debug\net5.0\ExercicioFinal.csproj.CoreCompileInputs.cache
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\ExercicioFinal\bin\Debug\net5.0\ExercicioFinal.exe
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\ExercicioFinal\bin\Debug\net5.0\ExercicioFinal.deps.json
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\ExercicioFinal\bin\Debug\net5.0\ExercicioFinal.runtimeconfig.json
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\ExercicioFinal\bin\Debug\net5.0\ExercicioFinal.runtimeconfig.dev.json
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\ExercicioFinal\bin\Debug\net5.0\ExercicioFinal.dll
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\ExercicioFinal\bin\Debug\net5.0\ref\ExercicioFinal.dll
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\ExercicioFinal\bin\Debug\net5.0\ExercicioFinal.pdb
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\ExercicioFinal\obj\Debug\net5.0\ExercicioFinal.dll
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\ExercicioFinal\obj\Debug\net5.0\ref\ExercicioFinal.dll
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\ExercicioFinal\obj\Debug\net5.0\ExercicioFinal.pdb
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\ExercicioFinal\obj\Debug\net5.0\ExercicioFinal.genruntimeconfig.cache
