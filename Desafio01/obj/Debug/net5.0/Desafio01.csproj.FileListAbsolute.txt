@@ -1,0 +1,16 @@
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Desafio01\obj\Debug\net5.0\Desafio01.csproj.AssemblyReference.cache
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Desafio01\obj\Debug\net5.0\Desafio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Desafio01\obj\Debug\net5.0\Desafio01.AssemblyInfoInputs.cache
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Desafio01\obj\Debug\net5.0\Desafio01.AssemblyInfo.cs
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Desafio01\obj\Debug\net5.0\Desafio01.csproj.CoreCompileInputs.cache
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Desafio01\bin\Debug\net5.0\Desafio01.exe
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Desafio01\bin\Debug\net5.0\Desafio01.deps.json
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Desafio01\bin\Debug\net5.0\Desafio01.runtimeconfig.json
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Desafio01\bin\Debug\net5.0\Desafio01.runtimeconfig.dev.json
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Desafio01\bin\Debug\net5.0\Desafio01.dll
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Desafio01\bin\Debug\net5.0\ref\Desafio01.dll
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Desafio01\bin\Debug\net5.0\Desafio01.pdb
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Desafio01\obj\Debug\net5.0\Desafio01.dll
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Desafio01\obj\Debug\net5.0\ref\Desafio01.dll
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Desafio01\obj\Debug\net5.0\Desafio01.pdb
+C:\Users\guiandrei\Desktop\workspace\ListaExercicio01\Desafio01\obj\Debug\net5.0\Desafio01.genruntimeconfig.cache
